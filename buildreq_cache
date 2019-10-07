@@ -1,0 +1,5 @@
+1.5
+pkgconfig(libsystemd)
+pkgconfig(systemd)
+pkgconfig(wayland-client)
+pkgconfig(wayland-protocols)
