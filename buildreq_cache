@@ -1,4 +1,7 @@
-1.5
+1.6
+bash-completion-dev
+pkgconfig(bash-completion)
+pkgconfig(fish)
 pkgconfig(libsystemd)
 pkgconfig(systemd)
 pkgconfig(wayland-client)
